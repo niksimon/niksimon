@@ -1,4 +1,11 @@
-### Hi there 👋
+<h1>
+  Hello, I'm 
+  <a href="https://niksimon.com" target="_blank">Nikola</a>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+</h1>
+
+<br />
+<br />
 
 <!--
 **niksimon/niksimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
