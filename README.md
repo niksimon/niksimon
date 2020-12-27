@@ -9,7 +9,7 @@
 <p>
   <a href="https://niksimon.com" title="Goran Urukalo Website">
     <img 
-      src="https://img.shields.io/badge/niksimon.com-f04e59?style=flat-square&labelColor=f04e59&logo=JustGiving&link=https://niksimon.com"
+      src="https://img.shields.io/badge/niksimon.com-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.com"
       alt="Portfolio" 
     />
   </a> 
@@ -33,7 +33,7 @@
   </a> 
   <a href="https://dev.to/niksimon">
     <img
-      src="https://img.shields.io/badge/@niksimon-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&logo=dev.to&link=https://dev.to/niksimon"
+      src="https://img.shields.io/badge/@niksimon-1f1f1f?style=flat-square&amp;labelColor=1f1f1f&logo=dev.to&link=https://dev.to/niksimon"
       alt="DevTo" 
     />
   </a> 
