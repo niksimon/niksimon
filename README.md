@@ -6,6 +6,39 @@
 <br />
 <br />
 
+<p>
+  <a href="https://niksimon.com" title="Goran Urukalo Website">
+    <img 
+      src="https://img.shields.io/badge/niksimon.com-f04e59?style=flat-square&labelColor=f04e59&logo=JustGiving&link=https://niksimon.com"
+      alt="Portfolio" 
+    />
+  </a> 
+  <a href="https://www.linkedin.com/in/nikola-simonovi%C4%87-bb761b1b8/">
+    <img
+      src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/nikola-simonovi%C4%87-bb761b1b8/"
+      alt="LinkedIn" 
+    />
+  </a> 
+  <a href="https://steamcommunity.com/id/itsmesimon/">
+    <img
+      src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
+      alt="Steam" 
+    />
+  </a> 
+  <a href="https://twitter.com/hiitssimon">
+    <img
+      src="https://img.shields.io/badge/@hiitssimon-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/hiitssimon"
+      alt="Twitter" 
+    />
+  </a> 
+  <a href="https://dev.to/niksimon">
+    <img
+      src="https://img.shields.io/badge/@niksimon-0A0A0A?style=flat-square&amp;labelColor=0A0A0A&logo=dev.to&link=https://dev.to/niksimon"
+      alt="DevTo" 
+    />
+  </a> 
+</p>
+
 <h2>Skills</h2>
 
 <h5>Front-end</h5>
@@ -54,15 +87,16 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <br />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=Heroku&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=JSON+Web+Tokens&logoColor=white" />
   <br />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <br />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=black" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe+Photoshop&logoColor=white" />
 </p>
 
 <br />
