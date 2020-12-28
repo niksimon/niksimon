@@ -6,12 +6,10 @@
 <h3>Welcome to my GitHub profile! 👊</h3>
 <h3>I am from Belgrade, Serbia and I love web and game development ❤️</h3>
 
-
-<br />
 <br />
 
 <p>
-  <a href="https://niksimon.com" title="Goran Urukalo Website">
+  <a href="https://niksimon.com" title="Nikola Simonovic Portfolio Website">
     <img 
       src="https://img.shields.io/badge/niksimon.com-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.com"
       alt="Portfolio" 
@@ -42,6 +40,7 @@
     />
   </a> 
 </p>
+
 <br />
 <hr />
 
@@ -64,7 +63,6 @@
   <br />
 </p>
 
-<br />
 <h5>Back-end</h5>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -75,7 +73,6 @@
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=C+Sharp&logoColor=white" />
 </p>
-<br />
 
 <h5>Databases</h5>
 <p>
@@ -84,7 +81,6 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
 </p>
 
-<br />
 <h5>Other stuff</h5>
 <p>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white" />
@@ -104,8 +100,6 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=Adobe+Photoshop&logoColor=white" />
 </p>
-
-<br />
 
 <!--
 **niksimon/niksimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
