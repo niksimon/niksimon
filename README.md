@@ -15,9 +15,9 @@
       alt="Portfolio" 
     />
   </a> 
-  <a href="https://www.linkedin.com/in/nikola-simonovi%C4%87-bb761b1b8/">
+  <a href="https://www.linkedin.com/in/niksimon">
     <img
-      src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/nikola-simonovi%C4%87-bb761b1b8/"
+      src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/niksimon"
       alt="LinkedIn" 
     />
   </a> 
