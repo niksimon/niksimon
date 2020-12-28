@@ -55,8 +55,8 @@
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <br />
-  <img alt="Webpack" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" /> 
-  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white" /> 
+  <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Parcel" src="https://img.shields.io/badge/-Parcel-e1af7a?style=flat-square&logo=Parcel&logoColor=white" />
   <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white" />
