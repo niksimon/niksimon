@@ -6,6 +6,8 @@
 <h3>Welcome to my GitHub profile! 👊</h3>
 <h3>I am from Belgrade, Serbia and I love web and game development ❤️</h3>
 
+<br />
+
 <p>
   <a href="https://niksimon.com" title="Nikola Simonovic Portfolio Website">
     <img 
