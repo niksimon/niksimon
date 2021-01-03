@@ -15,25 +15,25 @@
       alt="Portfolio" 
     />
   </a> 
-  <a href="https://www.linkedin.com/in/niksimon">
+  <a href="https://www.linkedin.com/in/niksimon" title="Nikola Simonovic LinkedIn page">
     <img
       src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/niksimon"
       alt="LinkedIn" 
     />
   </a> 
-  <a href="https://steamcommunity.com/id/itsmesimon/">
+  <a href="https://steamcommunity.com/id/itsmesimon/" title="Nikola Simonovic Steam page">
     <img
       src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
       alt="Steam" 
     />
   </a> 
-  <a href="https://twitter.com/hiitssimon">
+  <a href="https://twitter.com/hiitssimon" title="Nikola Simonovic Twitter page">
     <img
       src="https://img.shields.io/badge/@hiitssimon-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/hiitssimon"
       alt="Twitter" 
     />
   </a> 
-  <a href="https://dev.to/niksimon">
+  <a href="https://dev.to/niksimon" title="Nikola Simonovic dev.to page">
     <img
       src="https://img.shields.io/badge/@niksimon-1f1f1f?style=flat-square&amp;labelColor=1f1f1f&logo=dev.to&link=https://dev.to/niksimon"
       alt="DevTo" 
