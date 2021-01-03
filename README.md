@@ -9,31 +9,31 @@
 <br />
 
 <p>
-  <a href="https://niksimon.com" title="Nikola Simonovic Portfolio Website">
+  <a href="https://niksimon.com" title="Nikola Simonovic Portfolio Website" target="_blank">
     <img 
       src="https://img.shields.io/badge/niksimon.com-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.com"
       alt="Portfolio" 
     />
   </a> 
-  <a href="https://www.linkedin.com/in/niksimon">
+  <a href="https://www.linkedin.com/in/niksimon" target="_blank">
     <img
       src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/niksimon"
       alt="LinkedIn" 
     />
   </a> 
-  <a href="https://steamcommunity.com/id/itsmesimon/">
+  <a href="https://steamcommunity.com/id/itsmesimon/" target="_blank">
     <img
       src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
       alt="Steam" 
     />
   </a> 
-  <a href="https://twitter.com/hiitssimon">
+  <a href="https://twitter.com/hiitssimon" target="_blank">
     <img
       src="https://img.shields.io/badge/@hiitssimon-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/hiitssimon"
       alt="Twitter" 
     />
   </a> 
-  <a href="https://dev.to/niksimon">
+  <a href="https://dev.to/niksimon" target="_blank">
     <img
       src="https://img.shields.io/badge/@niksimon-1f1f1f?style=flat-square&amp;labelColor=1f1f1f&logo=dev.to&link=https://dev.to/niksimon"
       alt="DevTo" 
@@ -42,9 +42,9 @@
 </p>
 
 <p>
-  <a href="https://www.codewars.com/users/niksimon" title="Nikola Simonovic CodeWars Profile">
+  <a href="https://www.codewars.com/users/niksimon" title="Nikola Simonovic CodeWars Profile" target="_blank">
     <img 
-      src="https://www.codewars.com/users/niksimon/badges/small"
+      src="https://www.codewars.com/users/niksimon/badges/large"
       alt="CodeWars" 
     />
   </a> 
