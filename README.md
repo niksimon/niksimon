@@ -21,6 +21,12 @@
       alt="LinkedIn" 
     />
   </a> 
+  <a href="https://www.hackerrank.com/niksimon" title="Nikola Simonovic HackerRank page">
+    <img
+      src="https://img.shields.io/badge/@niksimon-2e2e2e?style=flat-square&labelColor=2e2e2e&logo=HackerRank&link=https://www.hackerrank.com/niksimon"
+      alt="HackerRank"
+    />
+  </a> 
   <a href="https://steamcommunity.com/id/itsmesimon/" title="Nikola Simonovic Steam page">
     <img
       src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
