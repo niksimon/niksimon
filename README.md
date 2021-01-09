@@ -23,7 +23,7 @@
   </a> 
   <a href="https://www.hackerrank.com/niksimon" title="Nikola Simonovic HackerRank page">
     <img
-      src="https://img.shields.io/badge/@niksimon-2e2e2e?style=flat-square&labelColor=2e2e2e&logo=HackerRank&link=https://www.hackerrank.com/niksimon"
+      src="https://img.shields.io/badge/@niksimon-2EC866?style=flat-square&labelColor=2EC866&logo=HackerRank&link=https://www.hackerrank.com/niksimon"
       alt="HackerRank"
     />
   </a> 
