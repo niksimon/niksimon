@@ -3,8 +3,8 @@
   <a href="https://niksimon.com" target="_blank">Nikola</a> 😀
 </h1>
 
-<h3>Welcome to my GitHub profile! 👊</h3>
-<h3>I am from Belgrade, Serbia and I love web and game development ❤️</h3>
+<h3>Welcome to my GitHub profile!</h3>
+<h3>I am from Belgrade, Serbia. I am interested in web and game development</h3>
 
 <br />
 
