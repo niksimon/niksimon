@@ -47,7 +47,7 @@
 </p>
 
 <p>
-  <a href="https://www.codewars.com/users/niksimon" title="Nikola Simonovic CodeWars Profile">
+  <a href="https://www.codewars.com/users/niksimon" title="CodeWars">
     <img 
       src="https://www.codewars.com/users/niksimon/badges/small"
       alt="CodeWars" 
