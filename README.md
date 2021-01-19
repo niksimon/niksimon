@@ -8,40 +8,40 @@
 <br />
 
 <p>
-  <a href="https://niksimon.com" title="Nikola Simonovic Portfolio Website">
+  <a href="https://niksimon.com" title="Portfolio">
     <img 
       src="https://img.shields.io/badge/niksimon.com-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.com"
       alt="Portfolio" 
     />
   </a> 
-  <a href="https://www.linkedin.com/in/niksimon" title="Nikola Simonovic LinkedIn page">
+  <a href="https://www.linkedin.com/in/niksimon" title="LinkedIn">
     <img
       src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/niksimon"
       alt="LinkedIn" 
     />
   </a> 
-  <a href="https://www.hackerrank.com/niksimon" title="Nikola Simonovic HackerRank page">
+  <a href="https://www.hackerrank.com/niksimon" title="HackerRank">
     <img
       src="https://img.shields.io/badge/@niksimon-2ea358?style=flat-square&labelColor=2ea358&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/niksimon"
       alt="HackerRank"
     />
   </a> 
-  <a href="https://steamcommunity.com/id/itsmesimon/" title="Nikola Simonovic Steam page">
+  <a href="https://steamcommunity.com/id/itsmesimon/" title="Steam">
     <img
       src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
       alt="Steam" 
     />
   </a> 
-  <a href="https://twitter.com/hiitssimon" title="Nikola Simonovic Twitter page">
+  <a href="https://twitter.com/hiitssimon" title="Twitter">
     <img
       src="https://img.shields.io/badge/@hiitssimon-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/hiitssimon"
       alt="Twitter" 
     />
   </a> 
-  <a href="https://dev.to/niksimon" title="Nikola Simonovic dev.to page">
+  <a href="https://codepen.io/iamsimon" title="Codepen.io">
     <img
-      src="https://img.shields.io/badge/@niksimon-1f1f1f?style=flat-square&amp;labelColor=1f1f1f&logo=dev.to&link=https://dev.to/niksimon"
-      alt="DevTo" 
+      src="https://img.shields.io/badge/@niksimon-000000?style=flat-square&amp;labelColor=000000&logo=CodePen&link=https://codepen.io/iamsimon"
+      alt="CodePen" 
     />
   </a> 
 </p>
