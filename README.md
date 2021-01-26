@@ -1,9 +1,9 @@
-<h1>
+<h3>
   Hi, I'm 
   <a href="https://niksimon.com" target="_blank">Nikola</a> 😀
-</h1>
+</h3>
 
-<h3>I am from Belgrade, Serbia. I am interested in web and game development and love learning new things every day.</h3>
+<p>I am from Belgrade, Serbia. I am interested in web and game development and love learning new things every day.</p>
 
 <br />
 
