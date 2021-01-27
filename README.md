@@ -3,7 +3,7 @@
   <a href="https://niksimon.com" target="_blank">Nikola</a> 😀
 </h2>
 
-<p>I am from Belgrade, Serbia. I am interested in web and game development and love learning new things every day.</p>
+<p>Web and Game development ❤ Learning new things every day</p>
 
 <br />
 
