@@ -3,7 +3,7 @@
   <a href="https://niksimon.com" target="_blank">Nikola</a> 😀
 </h2>
 
-<p>Web and Game development ❤ Learning new things every day</p>
+<p>Web and game development ❤ Learning new things every day</p>
 
 <br />
 
