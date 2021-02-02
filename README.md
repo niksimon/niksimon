@@ -26,7 +26,7 @@
       alt="HackerRank"
     />
   </a> 
-  <a href="https://steamcommunity.com/id/itsmesimon/" title="Steam">
+  <!--<a href="https://steamcommunity.com/id/itsmesimon/" title="Steam">
     <img
       src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
       alt="Steam" 
@@ -37,7 +37,7 @@
       src="https://img.shields.io/badge/@hiitssimon-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/hiitssimon"
       alt="Twitter" 
     />
-  </a> 
+  </a> -->
   <a href="https://codepen.io/iamsimon" title="Codepen.io">
     <img
       src="https://img.shields.io/badge/@niksimon-000000?style=flat-square&amp;labelColor=000000&logo=CodePen&link=https://codepen.io/iamsimon"
