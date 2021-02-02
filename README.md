@@ -26,13 +26,13 @@
       alt="HackerRank"
     />
   </a> 
-  <!--<a href="https://steamcommunity.com/id/itsmesimon/" title="Steam">
+  <a href="https://steamcommunity.com/id/itsmesimon/" title="Steam">
     <img
       src="https://img.shields.io/badge/@itsmesimon-1f1f1f?style=flat-square&labelColor=1f1f1f&logo=Steam&link=https://steamcommunity.com/id/itsmesimon/"
       alt="Steam" 
     />
   </a> 
-  <a href="https://twitter.com/hiitssimon" title="Twitter">
+  <!--<a href="https://twitter.com/hiitssimon" title="Twitter">
     <img
       src="https://img.shields.io/badge/@hiitssimon-1DA1F2?style=flat-square&labelColor=1DA1F2&logo=Twitter&logoColor=white&link=https://twitter.com/hiitssimon"
       alt="Twitter" 
