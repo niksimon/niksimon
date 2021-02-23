@@ -63,8 +63,7 @@
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />  
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black" /> 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat-square&logo=react%20router&logoColor=white" />
   <br />
@@ -76,6 +75,12 @@
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=esLint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <br />
+</p>
+
+<h5>Learning</h5>
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
 </p>
 
 <h5>Back-end</h5>
