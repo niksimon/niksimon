@@ -1,6 +1,6 @@
 <h2>
   Hi, I'm 
-  <a href="https://niksimon.com" target="_blank">Nikola</a> 😀
+  <a href="https://niksimon.github.io" target="_blank">Nikola</a> 😀
 </h2>
 
 <p>Web and game development ❤ Learning new things every day</p>
@@ -8,9 +8,9 @@
 <br />
 
 <p>
-  <a href="https://niksimon.com" title="Portfolio">
+  <a href="https://niksimon.github.io" title="Portfolio">
     <img 
-      src="https://img.shields.io/badge/niksimon.com-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.com"
+      src="https://img.shields.io/badge/niksimon.github.io-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.github.io"
       alt="Portfolio" 
     />
   </a> 
