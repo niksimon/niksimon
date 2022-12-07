@@ -87,9 +87,9 @@
 <h5>Other stuff</h5>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=C&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat-square&logo=Visual+Studio+Code&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual_Studio-5C2D91?style=flat-square&logo=Visual+Studio&logoColor=white" />
   <br />
