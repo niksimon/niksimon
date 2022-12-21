@@ -1,7 +1,7 @@
-<h2>
+<!-- <h2>
   Hi, I'm 
   <a href="https://niksimon.github.io" target="_blank">Nikola</a> 😀
-</h2>
+</h2> -->
 
 <br />
 
@@ -30,28 +30,24 @@
       alt="CodePen" 
     />
   </a>
-  </a>
-</p>
-
-<p>
   <a href="https://www.codewars.com/users/niksimon" title="CodeWars">
     <img 
       src="https://www.codewars.com/users/niksimon/badges/small"
       alt="CodeWars" 
     />
-  </a> 
+  </a>
 </p>
+
 
 <hr />
 
-<h3>Skills</h3>
+<!-- <h3>Skills</h3>
 
 <h5>Front-end</h5>
 <p>
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?logo=html5&style=flat-square&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&style=flat-square&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&style=flat-square&logoColor=black" /> 
-  <!--<img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> -->
   <br />
 </p>
 
@@ -59,7 +55,6 @@
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=Express&logoColor=white" />
-  <!--<img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />-->
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white" />
 </p>
@@ -85,7 +80,7 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" />
   <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white" />
-</p>
+</p> -->
 
 <!--
 **niksimon/niksimon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
