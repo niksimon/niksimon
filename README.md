@@ -6,9 +6,9 @@
 <br />
 
 <p>
-  <a href="https://niksimon.github.io" title="Portfolio">
+  <a href="https://www.niksimon.com" title="Portfolio">
     <img 
-      src="https://img.shields.io/badge/niksimon.github.io-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://niksimon.github.io"
+      src="https://img.shields.io/badge/niksimon.com-5522FA?style=flat-square&labelColor=5522FA&logo=vFairs&logoColor=white&link=https://www.niksimon.com"
       alt="Portfolio" 
     />
   </a> 
