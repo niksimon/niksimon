@@ -37,10 +37,7 @@
     />
   </a>
 </p>
-
-
-
-
+<br>
 <!-- <h3>Skills</h3>
 
 <h5>Front-end</h5>
