@@ -12,7 +12,7 @@
       alt="Portfolio" 
     />
   </a> 
-  <a href="https://www.linkedin.com/in/niksimon" title="LinkedIn">
+<!--   <a href="https://www.linkedin.com/in/niksimon" title="LinkedIn">
     <img
       src="https://img.shields.io/badge/@niksimon-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&link=https://www.linkedin.com/in/niksimon"
       alt="LinkedIn" 
@@ -35,7 +35,7 @@
       src="https://www.codewars.com/users/niksimon/badges/small"
       alt="CodeWars" 
     />
-  </a>
+  </a> -->
 </p>
 <br>
 <!-- <h3>Skills</h3>
